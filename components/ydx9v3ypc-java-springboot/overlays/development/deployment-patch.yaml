@@ -12,5 +12,5 @@ spec:
   template:
     spec:
       containers:
-        - image: quay.io/rhtap-test-organization-jk/rhtap-qe:github-9c1db37362952a675f25c5057a23736df603d70b
+        - image: quay.io/rhtap-test-organization-jk/rhtap-qe:github-ebee0d907cb6c1b3565077c951c7ade623b67424
           name: container-image
